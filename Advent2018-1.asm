@@ -1,6 +1,6 @@
 *************************
 *Advent of Code 2018 #1	*
-*	Nightfox			*
+*	Nightfox	*
 *************************
 
 ; Input is a list of numbers prefaced with +/- for each number separated 
